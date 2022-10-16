@@ -1,1 +1,2 @@
-name : task new
+block
+ shell: telnet
