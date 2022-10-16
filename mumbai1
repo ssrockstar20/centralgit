@@ -1,3 +1,1 @@
----
-hosts: local
-gather_facts: false 
+name : task new
